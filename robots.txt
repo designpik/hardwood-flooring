@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://designpik.github.io/hardwood-flooring/sitemapx.xml
